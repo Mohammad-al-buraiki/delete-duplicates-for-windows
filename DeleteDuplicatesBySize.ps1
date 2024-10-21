@@ -1,5 +1,5 @@
 # Define the folder path
-$folderPath = "C:\Users\albur\iCloudPhotos\iPhone Photos"
+$folderPath = "C:\Users\[...]"
 
 # Set the minimum file size threshold (in bytes), 10,000 KB is 10,240,000 bytes
 $minFileSize = 10240KB
