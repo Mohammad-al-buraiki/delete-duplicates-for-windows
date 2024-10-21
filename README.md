@@ -1,3 +1,3 @@
 # Delete Duplicate Files in a Directory
 
-This script deletes duplicate files in a directory. It compares the files in the directory and deletes the duplicates. The script uses the file size and the file content to determine if two files are duplicates.
+This repo contains two scripts: the first deletes duplicate files in a directory regardless of their types and names, while the second deletes duplicate videos based on their sizes only if they are over 10,000KB (~10MB).
